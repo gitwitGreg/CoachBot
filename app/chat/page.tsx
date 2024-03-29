@@ -15,7 +15,7 @@ export default function Chat() {
 
     const renderResponse = () => {
        return(
-        <div className="gap-4 flex flex-col mt-10 overflow-y-scroll h-screen">
+        <div className="gap-4 flex flex-col mt-10 overflow-y-scroll h-screen w-full">
             {messages.map((message, index) => (
                 <div key={message.id} className="flex items-center">
                     <Image
