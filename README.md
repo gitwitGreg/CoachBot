@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD >>>>>>>>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
@@ -14,6 +14,20 @@ pnpm dev
 # or
 bun dev
 ```
+
+# Title
+CoachBot
+
+# Description
+- This is simple ai assistant utalizing open Ai
+- Users can have interact with the Ai which will answer the users prompts
+
+# Why
+- Ai has quickly took this generation by storm and as i am growing as a developer i got curious to how it works. I looked into the basics on creating a chatbot and Open AI seems to be popular so thats where i began.
+  
+# Quick start
+- Install CoachBot by downloading zip folder
+- Run in teminal with npm run dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
